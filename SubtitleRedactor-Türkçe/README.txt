@@ -1,4 +1,4 @@
-⚠️ Önemli: Programın çalışması için gereken AI modelleri (yaklaşık 5 GB) ek olarak indirmeniz gerekmektedir. Modelleri bu linkten "https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ" indirin ve içindeki ai klasörünü projenin ana dizinine yapıştırın.
+⚠️ Önemli: Programın çalışması için gereken AI modelleri (yaklaşık 5 GB) ek olarak indirmeniz gerekmektedir. Modelleri bu linkten "https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ" indirin ve zip dosyasını ayıklayın, sonra içindeki ai klasörünü projenin ana dizinine yapıştırın.
 
 # SubtitleRedactor
 
