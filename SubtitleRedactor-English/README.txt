@@ -1,4 +1,4 @@
-⚠️ **Important:** You need to download the required AI models (approx. 5 GB) separately for the program to work. Download the models from this link https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ" and paste the `ai` folder inside it into the root directory of the project.
+⚠️ **Important:** You need to download the required AI models (approx. 5 GB) separately for the program to work. Download the models from this link "https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ" and paste the `ai` folder inside it into the root directory of the project.
 
 # SubtitleRedactor
 
