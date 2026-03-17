@@ -8,7 +8,7 @@ SubtitleRedactor is an AI-powered offline subtitle redaction tool that you can f
 Installation:
 1. Download the appropriate build file for your system. If downloaded as a ZIP, extract it.
 
-2. Download the ZIP file named AI from the following drive link: [https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ](https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ) and extract it.
+2. Download the ZIP file named AI from the following drive link: "https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ" and extract it.
 
 3. Open the extracted AI folder, then open the sub-folder also named AI. You will see files like "model.gguf, rpc-server, llama.dll...".
 
@@ -48,7 +48,7 @@ SubtitleRedactor serbestçe konfigüre edebileceğiniz AI tabanlı bir offline a
 Kurulum: 
 1. Sisteminize uygun build dosyasını indirin, eğer ZIP olarak indirdiyseniz ayıklayın.
 
-2. "[https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ](https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ)" drive linkinden AI adlı ZIP dosyasını indirin, bu ZIP dosyasını ayıklayın.
+2. "https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ" drive linkinden AI adlı ZIP dosyasını indirin, bu ZIP dosyasını ayıklayın.
 
 3. Ayıklanan AI dosyasını, ardından onun da içerisindeki AI dosyasını açın, "model.gguf, rpc-server, llama.dll…" gibi dosyalar göreceksiniz.
 

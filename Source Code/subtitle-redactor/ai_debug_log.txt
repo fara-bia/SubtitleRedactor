@@ -1,0 +1,68 @@
+=== AI Redactor Log Initialized at 2026-03-17 12:14:28 ===
+
+
+
+========== BATCH START ==========
+--- PROMPT SENT TO AI (Via Temp File) ---
+<|im_start|>system
+SADECE cümlelerdeki virgülleri sil
+<|im_end|>
+<|im_start|>user
+0|,, ,s,s, jej adsflkj bana iii ,,, delrer
+1|,, pejkalpsd iii ,,, pekala beliii, ,, ki ,,, olur
+<|im_end|>
+<|im_start|>assistant
+
+--- RAW AI OUTPUT STREAM ---
+Using run mode: COOL
+Using llama-cli thread limit: 6
+Requested GPU mode: USE_GPU
+GPU backend detected. Enabling GPU layers.
+ggml_cuda_init: found 1 CUDA devices (Total VRAM: 8150 MiB):
+  Device 0: NVIDIA GeForce RTX 5050 Laptop GPU, compute capability 12.0, VMM: yes, VRAM: 8150 MiB
+load_backend: loaded CUDA backend from C:\AnaDosyalar\SpareStuff\SubtitleRedactorVSCode\subtitle-redactor\ai\ggml-cuda.dll
+load_backend: loaded RPC backend from C:\AnaDosyalar\SpareStuff\SubtitleRedactorVSCode\subtitle-redactor\ai\ggml-rpc.dll
+load_backend: loaded CPU backend from C:\AnaDosyalar\SpareStuff\SubtitleRedactorVSCode\subtitle-redactor\ai\ggml-cpu-alderlake.dll
+
+Loading model... 
+
+
+▄▄ ▄▄
+██ ██
+██ ██  ▀▀█▄ ███▄███▄  ▀▀█▄    ▄████ ████▄ ████▄
+██ ██ ▄█▀██ ██ ██ ██ ▄█▀██    ██    ██ ██ ██ ██
+██ ██ ▀█▄██ ██ ██ ██ ▀█▄██ ██ ▀████ ████▀ ████▀
+                                    ██    ██
+                                    ▀▀    ▀▀
+
+build      : b8373-46dba9fce
+model      : model.gguf
+modalities : text
+
+available commands:
+  /exit or Ctrl+C     stop or exit
+  /regen              regenerate the last response
+  /clear              clear the chat history
+  /read               add a text file
+
+
+> <|im_start|>system
+SADECE cümlelerdeki virgülleri sil
+<|im_end|>
+<|im_start|>user
+0|,, ,s,s, jej adsflkj bana iii ,,, delrer
+1|,, pejkalpsd iii ,,, pekala beliii, ,, ki ,,, olur
+<|im_end|>
+<|im_start|>assistant
+
+0|s s jej adsflkj bana iii delrer
+1|pejkalpsd iii pekala beliii ki olur 
+llama_memory_breakdown_print: | memory breakdown [MiB]          | total   free    self   model   context   compute    unaccounted |
+llama_memory_breakdown_print: |   - CUDA0 (RTX 5050 Laptop GPU) |  8150 = 1028 + (6018 =  4455 +    1056 +     507) +        1104 |
+llama_memory_breakdown_print: |   - Host                        |                 3213 =  2894 +     288 +      31                |
+
+
+Exiting...
+llama-cli exit code: 0
+========== BATCH END ==========
+
