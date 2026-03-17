@@ -7,6 +7,7 @@ SubtitleRedactor is an AI-powered offline subtitle redaction tool that you can f
 
 Installation:
 1. Download the appropriate build file for your system. If downloaded as a ZIP, extract it.
+(There aren't any other builds yet so download SubtitleRedactor folder)
 
 2. Download the ZIP file named AI from the following drive link: "https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ" and extract it.
 
@@ -47,6 +48,7 @@ SubtitleRedactor serbestçe konfigüre edebileceğiniz AI tabanlı bir offline a
 
 Kurulum: 
 1. Sisteminize uygun build dosyasını indirin, eğer ZIP olarak indirdiyseniz ayıklayın.
+(Henüz başka build yok yani SubtitleRedactor klasörünü indirin)
 
 2. "https://drive.google.com/drive/folders/1cHR25XjXTTQFPMr0Ueokjrt3upnDgZsQ" drive linkinden AI adlı ZIP dosyasını indirin, bu ZIP dosyasını ayıklayın.
 
